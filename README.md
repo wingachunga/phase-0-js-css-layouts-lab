@@ -10,7 +10,7 @@ This lab will assess your ability to apply CSS Flexbox properties to create a re
 #### Tools and Resources
 - VSCode (or any code editor)
 - Web browser for testing
-- GitHub repository (link provided by the instructor)
+- GitHub repository (https://github.com/learn-co-curriculum/-phase-0-js-css-layouts-lab.git)
 - Node.js installed
 
 **Instructions:**
